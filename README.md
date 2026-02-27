@@ -1,1 +1,1 @@
-https://github.com/TopMob/ono-tebe-nado-ad
+https://f0dex.github.io/ono-tebe-nado-ad/
