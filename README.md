@@ -1,1 +1,1 @@
-https://f0dex.github.io/ono-tebe-nado-ad/
+https://github.com/F0dex/ono-tebe-nado-ad
